@@ -4,7 +4,7 @@ import com.example.SpringBootCommunityWeb.domain.Board;
 import com.example.SpringBootCommunityWeb.domain.User;
 import com.example.SpringBootCommunityWeb.domain.enums.BoardType;
 import com.example.SpringBootCommunityWeb.repository.BoardRepository;
-import com.example.SpringBootCommunityWeb.repository.UserRepository;
+import com.example.SpringBootCommunityWeb.repository.UserRepository;;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
