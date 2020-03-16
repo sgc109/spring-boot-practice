@@ -9,8 +9,8 @@ spring:
       client:
         registration:
           google:
-            client-id: clientIdTest
-            client-secret: clientSecretTest
+            client-id: 273440804665-jte983mervfat7vqjflhfpggo4k886a5.apps.googleusercontent.com
+            client-secret: Buy6ZLnqmzIf16T13-vsX9NY
           facebook:
             client-id: 1858496107618513
             client-secret: a0167fe7518a6ba87912c7bb579150bb
